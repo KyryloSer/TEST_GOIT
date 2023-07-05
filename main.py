@@ -1,5 +1,6 @@
 def add(x, y):
-    return x + y
+    """adding func"""
+    return x - y
 
 
 if __name__ == '__main__':
